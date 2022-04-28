@@ -15,7 +15,7 @@ public class StudentLastnameComparator implements Comparator{
 			if(lastName1.compareTo(lastName2)>0) {
 				return 1;
 			}
-			if(lastName1.compareTo(lastName1)<0) {
+			if(lastName1.compareTo(lastName2)<0) {
 				return -1;
 			}
 			return 0;
