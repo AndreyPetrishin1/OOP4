@@ -21,7 +21,7 @@ public class Main {
 	student[5] = new Student("NAME6", "NLASTNAME5", Gender.Woman, 6, "OOP1");
 	student[6] = new Student("NAME7", "LASTNAME6", Gender.Man, 7, "OOP1");
 	student[7] = new Student("NAME8", "VLASTNAME7", Gender.Woman, 8, "OOP1");
-	//student[8] = new Student("NAME9", "VLASTNAME8", Gender.Man, 9, "OOP1");
+	student[8] =enter.EnterStudent();
 	//student[9] = new Student("NAME10", "LASTNAME9", Gender.Man,10, "OOP1");
 	//student[10] = new Student("RWERWE10", "werwer", Gender.Man, 0, "werrew");
 	
